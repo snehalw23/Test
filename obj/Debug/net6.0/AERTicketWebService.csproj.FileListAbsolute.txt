@@ -1,0 +1,121 @@
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.csproj.AssemblyReference.cache
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.AssemblyInfoInputs.cache
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.AssemblyInfo.cs
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.csproj.CoreCompileInputs.cache
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cs
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cache
+D:\SnehalW\WebService\AerTicketWebService\AERTicketWebService\obj\Debug\net6.0\AERTicketWebService.sourcelink.json
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\appsettings.Development.json
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\appsettings.json
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\AERTicketWebService.exe
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\AERTicketWebService.deps.json
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\AERTicketWebService.runtimeconfig.json
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\AERTicketWebService.pdb
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\RestSharp.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\System.Text.Json.dll
+D:\SnehalW\WebService\AerTicketWebService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.csproj.AssemblyReference.cache
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.AssemblyInfoInputs.cache
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.AssemblyInfo.cs
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.csproj.CoreCompileInputs.cache
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cs
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cache
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.sourcelink.json
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets.build.json
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets.development.json
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets\msbuild.AERTicketWebService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets\msbuild.build.AERTicketWebService.props
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AERTicketWebService.props
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AERTicketWebService.props
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\scopedcss\bundle\AERTicketWebService.styles.css
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.csproj.CopyComplete
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\refint\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.pdb
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\AERTicketWebService.genruntimeconfig.cache
+D:\SnehalW\WebService\AerTicketWebService\obj\Debug\net6.0\ref\AERTicketWebService.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\appsettings.Development.json
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\appsettings.json
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\AERTicketWebService.exe
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\AERTicketWebService.deps.json
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\AERTicketWebService.runtimeconfig.json
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\AERTicketWebService.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\AERTicketWebService.pdb
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\RestSharp.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\System.Text.Json.dll
+D:\All User Data\SnehalWakade\aerTicket\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.csproj.AssemblyReference.cache
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.AssemblyInfoInputs.cache
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.AssemblyInfo.cs
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.csproj.CoreCompileInputs.cache
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cs
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cache
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets\msbuild.AERTicketWebService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets\msbuild.build.AERTicketWebService.props
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AERTicketWebService.props
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AERTicketWebService.props
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets.pack.json
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets.build.json
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\staticwebassets.development.json
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\scopedcss\bundle\AERTicketWebService.styles.css
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.csproj.CopyComplete
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.dll
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\refint\AERTicketWebService.dll
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.pdb
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\AERTicketWebService.genruntimeconfig.cache
+D:\All User Data\SnehalWakade\aerTicket\obj\Debug\net6.0\ref\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\appsettings.Development.json
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\appsettings.json
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\AERTicketWebService.exe
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\AERTicketWebService.deps.json
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\AERTicketWebService.runtimeconfig.json
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\RestSharp.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\System.Text.Json.dll
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.csproj.AssemblyReference.cache
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.AssemblyInfoInputs.cache
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.AssemblyInfo.cs
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.csproj.CoreCompileInputs.cache
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cs
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.MvcApplicationPartsAssemblyInfo.cache
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.sourcelink.json
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets.build.json
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets.development.json
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets\msbuild.AERTicketWebService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets\msbuild.build.AERTicketWebService.props
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AERTicketWebService.props
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AERTicketWebService.props
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\scopedcss\bundle\AERTicketWebService.styles.css
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.csproj.CopyComplete
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\refint\AERTicketWebService.dll
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.pdb
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\AERTicketWebService.genruntimeconfig.cache
+D:\SnehalW\WebService\AerTicket\bin\Debug\net6.0\AERTicketWebService.pdb
+D:\SnehalW\WebService\AerTicket\obj\Debug\net6.0\ref\AERTicketWebService.dll

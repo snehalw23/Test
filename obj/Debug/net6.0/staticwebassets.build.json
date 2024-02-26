@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cNGH4mUt/tT4LghxVj8HBjvbQL5bFiTpZ4JNWXyzHjQ=",
+  "Source": "AERTicketWebService",
+  "BasePath": "_content/AERTicketWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
