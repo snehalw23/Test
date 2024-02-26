@@ -1,0 +1,3 @@
+[submodule "submodules/AirAPIOutCommon"]
+	path = submodules/AirAPIOutCommon
+	url = https://github.com/MyRiya/AirAPIOutCommon.git
